@@ -1,6 +1,6 @@
 # Soccer Database Model
 
-This project base on soccer management system.It's structure to facilitate the soccer organization to manage soceer event. 
+This project base on soccer management system.It's structure to facilitate the soccer organization to manage soccer event. 
 
 In this project have 18 tables:
 
