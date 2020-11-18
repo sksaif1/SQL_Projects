@@ -43,6 +43,6 @@ In this project have 18 tables:
 A palyer is identified by its Id and has complete details of in this table name,age and team and it connected to match_must ,playing position
 and player_booked.Match_Must is also identified by its Id and connected to player,refree,venue andgoals. Goal details is identified by its Id and it's connected to player,match_must and soccer country.
 
-#Entity Relationship Diagram
+# Entity Relationship Diagram
 
 ![](soccer-database.png)
