@@ -1,7 +1,7 @@
 # Hospital  Database Model
 
 
-This project base on hospital management system.It is facilitate to run hopital and record all data. 
+This project base on hospital management system. It's facilitate to run hopital and record all data. 
 
 In this project have 15 tables:
 
