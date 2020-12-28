@@ -35,6 +35,6 @@ In this project have 15 tables:
 
 **on_call**
 
-# Entity Relationship Diagram
+# Structure of Hospital  Database
 
 ![](hospital-database-e-r-diagram.png)
