@@ -1,6 +1,6 @@
-# HR Database Model
+# Movies Management System Database Model
 This project create for movies management system.
 
 
-# ER Diagram
+# Structure of Movies Management System
 ![](movie-database.png)
